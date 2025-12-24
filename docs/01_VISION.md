@@ -1,4 +1,3 @@
-# 01_VISION.md  
 ## `Eidolon` — Design Intent & Non-Negotiables
 
 This document defines **why `Eidolon` exists** and **what it refuses to become**.

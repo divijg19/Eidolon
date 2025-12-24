@@ -1,4 +1,3 @@
-# 06_MULTIPLAYER.md  
 ## Shared Fate Mode
 
 This document defines how **multiple players coexist in a single world instance** without weakening consequence, agency, or pressure.

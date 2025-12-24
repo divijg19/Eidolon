@@ -1,7 +1,7 @@
 # 01_VISION.md  
-## Eidolon — Design Intent & Non-Negotiables
+## `Eidolon` — Design Intent & Non-Negotiables
 
-This document defines **why Eidolon exists** and **what it refuses to become**.
+This document defines **why `Eidolon` exists** and **what it refuses to become**.
 
 It is the highest-authority document in this repository.  
 If a feature, mechanic, or technical decision contradicts this file, that decision is incorrect—regardless of convenience, novelty, or popularity.
@@ -10,9 +10,9 @@ To be re-read whenever writing code or unsure.
 
 ---
 
-## 1. What Eidolon Is
+## 1. What `Eidolon` Is
 
-**Eidolon** is a **persistent world simulation** in which players exist as agents among other agents, operating under pressure from systems that do not prioritize them.
+**`Eidolon`** is a **persistent world simulation** in which players exist as agents among other agents, operating under pressure from systems that do not prioritize them.
 
 It is a role-playing game only in the sense that:
 - the player inhabits a role in a world,
@@ -23,7 +23,7 @@ Narrative is not authored.
 Progression is not guaranteed.  
 Destiny is not assigned.
 
-Eidolon is about **what a player chooses to pursue**, not what the game presents for completion.
+`Eidolon` is about **what a player chooses to pursue**, not what the game presents for completion.
 
 ---
 
@@ -33,7 +33,7 @@ Most RPGs ask:
 
 > *Who will you become?*
 
-Eidolon asks:
+`Eidolon` asks:
 
 > **What will you attempt to build, control, preserve, exploit, abandon, or destroy—  
 > and what will it cost you?**
@@ -45,7 +45,7 @@ It responds to action, delay, misjudgment, and commitment.
 
 ## 3. The World Comes First
 
-The world of Arrhaknea:
+The world of ***Arrhaknea***:
 - exists independently of the player,
 - evolves in time,
 - contains competing interests,
@@ -89,7 +89,7 @@ Waiting is an action.
 
 ## 5. No Prescribed Destiny
 
-Eidolon explicitly rejects:
+`Eidolon` explicitly rejects:
 - main quests
 - chosen-one narratives
 - optimal endings
@@ -111,7 +111,7 @@ It merely enforces their consequences.
 
 ## 6. Consequence Over Reward
 
-Eidolon does not motivate through:
+`Eidolon` does not motivate through:
 - loot treadmills
 - XP curves
 - escalating power fantasies
@@ -133,7 +133,7 @@ Reversibility is rare by design.
 
 There is no global truth layer accessible to players or NPCs.
 
-Information in Eidolon is:
+Information in `Eidolon` is:
 - local
 - delayed
 - incomplete
@@ -198,7 +198,7 @@ Human unpredictability—player or NPC—is expected and preserved.
 
 ## 10. Friction Is Intentional
 
-Eidolon does not optimize for:
+`Eidolon` does not optimize for:
 - constant engagement
 - immediate clarity
 - rapid feedback
@@ -234,14 +234,14 @@ Breaking any of these requires rewriting this document.
 
 ## 12. Final Statement
 
-Eidolon is not about winning.
+`Eidolon` is not about winning.
 
 It is about:
 - committing to a direction,
 - navigating pressure,
 - and living with what follows.
 
-Arrhaknea offers no guarantees—only leverage, risk, and opportunity.
+***Arrhaknea*** offers no guarantees—only leverage, risk, and opportunity.
 
 **What are you willing to pursue—  
 and what are you willing to lose in the process?**
